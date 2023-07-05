@@ -7,7 +7,7 @@
 
 # **Challenge Name**
 
-- ### [qr code component main](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-main-qY-nHw6GZX)
+- ### [qr code component main](https://www.frontendmentor.io/solutions/qr-code-component-main-p4wqKZiXKG)
 
 <br>
 
